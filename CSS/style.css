@@ -13,8 +13,7 @@ body{
 
 #genius{
     display: grid;
-    grid-template-areas: 'verde vermelho'
-    'amarelo azul';
+    grid-template-areas: 'verde vermelho''amarelo azul';
     grid-gap: 10px;
     border: 1px solid #ffffff;
     /*background-color: #ffffff;*/
@@ -48,5 +47,5 @@ body{
 }
 
 .selecionado {
-    opacity: 0.8;
+    opacity: 0.7;
 }
